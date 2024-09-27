@@ -1,2 +1,8 @@
 # repo-basic
-test
+###이 repository .
+* Remote repository 생성  
+* Local의 clone  
+* Local에서 수정  
+* Local에서 commit  
+* Remote로 Push  
+###를 연습하기 위해 만들었습니다
